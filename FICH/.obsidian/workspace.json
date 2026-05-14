@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "445cd16159a78f1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8006f7ac9583fe8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "784a2a31762dcd54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_IA/(U6) AxR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(U6) AxR"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bc03d1627f3805e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e50667d209480403",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "721c8b460d4ab657",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "bdf4ec21c4b7335b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5be4e41461ac2c53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5eab7b3ecf8d769d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a57138570202188a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99cddeab558d0850",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "851fc358b3a09410",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0a9fa044da86baab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "61429b222775f88c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f12670f3fcbe8364",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-05-07.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-05-07"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "784a2a31762dcd54",
+  "lastOpenFiles": [
+    "05_IA/(U5) Conocimiento y SEs.md",
+    "05_IA/(U6) AxR.md",
+    "05_INF/(U7) Teoría de la Información.md",
+    "Images/Pasted image 20260513025004.png",
+    "Images/Pasted image 20260512210425.png",
+    "Images/Pasted image 20260512202553.png",
+    "Images/Pasted image 20260512202344.png",
+    "Images/Pasted image 20260511185644.png",
+    "Images",
+    "05_INF",
+    "Images/Pasted image 20260511113542.png",
+    "Images/Pasted image 20260511113249.png",
+    "05_IA",
+    "CAL3/Ch 13/Sin título.md",
+    "Untitled.canvas",
+    "2026-05-07.md",
+    "CAL3/Ch 13/(13.1) Boca Juniors.md",
+    "CAL3/Ch 13/Untitled.canvas",
+    "CAL3/Ch 13/Untitled.base",
+    "create a link.md",
+    "link mio?.md",
+    "Welcome.md",
+    "03_CAL3/Ch 13",
+    "CAL3/Untitled.md",
+    "03_CAL3",
+    "Pasted image 20260507042536.png",
+    "Pasted image 20260507042508.png"
+  ]
+}
