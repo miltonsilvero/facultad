@@ -63,7 +63,7 @@ donde:
 - `p ⊆ Aₐ` (literales positivas de la lista añadir)
 - `q ⊆ Bₐ` (literales positivas de la lista borrar)
 
-*Presunción de STRIPS:* Cualquier literal que no esté mencionado en el efecto de una acción permanece sin cambio.
+*Presunción de STRIPS:* Cualquier literal que no esté menciona do en el efecto de una acción permanece sin cambio.
 
 ---
 ##### Reglas STRIPS y Operadores
@@ -128,6 +128,7 @@ Una amenaza ocurre cuando una acción `Sk` podría eliminar un literal `c` que e
 |---|---|
 |**Retrasar (Demotion)**|Ordenar `Sk` **antes** de `Sᵢ`|
 |**Promover (Promotion)**|Ordenar `Sk` **después** de `Sⱼ`|
+Se utilizan links de ordenamiento para aplicar estas estrategias, se los suele representar con líneas punteadas en vez de lisas como los causales.
 
 ---
 ##### Planificación con Mínimo Compromiso
