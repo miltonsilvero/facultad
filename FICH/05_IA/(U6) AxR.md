@@ -1,4 +1,5 @@
 "El aprendizaje por refuerzo consiste en aprender qué hacer (cómo mapear situaciones a acciones) para maximizar una recompensa".
+Es el problema que enfrenta un agente que aprende su comportamiento a través de interacciones de prueba y error con un entorno dinámico.
 
 -*Búsqueda por prueba y error:* Al agente no se le dice qué acciones tomar, sino que debe descubrir qué acciones producen la mayor recompensa al ejecutarlas.
 -*Recompensa retrasada:*  Las acciones pueden afectar no sólo a la recompensa inmediata sino también a la situación siguiente y a todas las recompensas posteriores.
