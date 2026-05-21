@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_IA/(U6) AxR.md",
+                "file": "05_INF/(U7) Teoría de la Información.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(U6) AxR"
+              "title": "(U7) Teoría de la Información"
             }
           }
         ]
@@ -185,9 +185,14 @@
   "active": "784a2a31762dcd54",
   "lastOpenFiles": [
     "05_IA/(U5) Planificación.md",
+<<<<<<< Updated upstream
     "Carrera.canvas",
     "05_IA/(U6) AxR.md",
     "05_IA/(U4) Conocimiento y SEs.md",
+=======
+    "05_IA/(U6) AxR.md",
+    "05_IA/(U5) Conocimiento y SEs.md",
+>>>>>>> Stashed changes
     "05_INF/(U7) Teoría de la Información.md",
     "Images/Pasted image 20260513025004.png",
     "Images/Pasted image 20260512210425.png",
