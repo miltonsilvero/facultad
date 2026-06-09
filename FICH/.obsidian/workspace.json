@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "9901cb0984b006f0",
+    "id": "24b7f3c7f346c845",
     "type": "split",
     "children": [
       {
-        "id": "de5e71e1564e72e3",
+        "id": "91e77f184933c5a4",
         "type": "tabs",
         "children": [
           {
-            "id": "4fea23a1cadd3afe",
+            "id": "38a18f48058b198a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_IA/(U8) Perceptrón simple.md",
+                "file": "05_INF/TPF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(U8) Perceptrón simple"
+              "title": "TPF"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "51fff62b75a02461",
+    "id": "fabd0b094233e021",
     "type": "split",
     "children": [
       {
-        "id": "e2885ffdc4c0c8cf",
+        "id": "3bb2ebd5220b3da8",
         "type": "tabs",
         "children": [
           {
-            "id": "63d655132f09549a",
+            "id": "21fe105705fdc241",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "11c9cab55018549c",
+            "id": "63b1e283a01760e0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "c59cf56d046e0f21",
+            "id": "06fcd6c896afd05d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "39722748bfa0302a",
+    "id": "d9b6ad8d06e331b7",
     "type": "split",
     "children": [
       {
-        "id": "2f625fa1cdeabcbc",
+        "id": "939af83d8de00737",
         "type": "tabs",
         "children": [
           {
-            "id": "b2b3bf9b68cf68bc",
+            "id": "db7c23fc35a61be4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_IA/(U7) Métodos del ML.md",
+                "file": "05_INF/(U7) Teoría de la Información.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de (U7) Métodos del ML"
+              "title": "Enlaces entrantes de (U7) Teoría de la Información"
             }
           },
           {
-            "id": "d237067ea002a1c5",
+            "id": "ca07278a9802bd56",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_IA/(U7) Métodos del ML.md",
+                "file": "05_INF/(U7) Teoría de la Información.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de (U7) Métodos del ML"
+              "title": "Enlaces salientes de (U7) Teoría de la Información"
             }
           },
           {
-            "id": "9d5f7bdb39675f7b",
+            "id": "21017379ba0a7393",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +138,7 @@
             }
           },
           {
-            "id": "14e59d83e4eaff39",
+            "id": "3f7e7fe07bc50f07",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +152,18 @@
             }
           },
           {
-            "id": "b213522911ad5ad1",
+            "id": "91e9ec0c7731fb4c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_IA/(U7) Métodos del ML.md",
+                "file": "05_INF/(U7) Teoría de la Información.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de (U7) Métodos del ML"
+              "title": "Esquema de (U7) Teoría de la Información"
             }
           }
         ]
@@ -180,18 +181,42 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4fea23a1cadd3afe",
+  "active": "38a18f48058b198a",
   "lastOpenFiles": [
-    "05_IA/(U7) Métodos del ML.md",
-    "05_IA/(U8) Perceptrón simple.md",
-    "05_INF/(U9) Comparación de modelos.md",
-    "05_INF/(U8) Inferencia y optimalidad.md",
+    "Sin título.base",
+    "05_INF/TPF.md",
+    "Sin nombre",
+    "Sin título.md",
+    "05_INF/Sin título.md",
     "05_INF/(U7) Teoría de la Información.md",
-    "05_IA/(U6) AxR.md",
-    "Carrera.canvas",
-    "05_IA/archivo.md"
+    "04_BD1/Resumen materia.md",
+    "04_BD1",
+    "Calendar/2026-08-10 Inicio cursado.md",
+    "Calendar/2026-08-16 Modelo 2026.md",
+    "Calendar/2026-08-15 Modelo 2026.md",
+    "Calendar/2026-08-14 Modelo 2026.md",
+    "Calendar/2026-08-01 4ta Capacitación.md",
+    "Calendar/2026-07-25 3ra Capacitación.md",
+    "Calendar/2026-07-28 FINAL BD.md",
+    "Calendar/2026-07-29 FINAL C3.md",
+    "Calendar/2026-06-30 FINAL BD1.md",
+    "Calendar/2026-07-01 FINAL C3.md",
+    "Calendar/2026-06-18 Coloquio IA.md",
+    "Calendar/2026-06-25 R2 IA.md",
+    "Calendar/2026-06-09 TPF IE.md",
+    "Calendar/2026-06-22 R2 IE.md",
+    "Calendar/2026-06-16 R1 IE.md",
+    "Calendar/2026-06-11 P2 IA.md",
+    "Calendar/2026-06-02 P2 IE.md",
+    "Excalidraw/Drawing 2026-06-01 02.20.02.excalidraw.md",
+    "Excalidraw",
+    "05_IA/(U4) Conocimiento y SEs.md",
+    "Calendar",
+    "2026-06-01.md"
   ]
 }
