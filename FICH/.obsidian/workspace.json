@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_INF/TPF.md",
+                "file": "Plan_de_Cursada_Optimizado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TPF"
+              "title": "Plan_de_Cursada_Optimizado"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -187,13 +189,27 @@
   },
   "active": "38a18f48058b198a",
   "lastOpenFiles": [
-    "Sin título.base",
-    "05_INF/TPF.md",
-    "Sin nombre",
-    "Sin título.md",
-    "05_INF/Sin título.md",
-    "05_INF/(U7) Teoría de la Información.md",
+    "05_SYS/(U1) Señales.md",
+    "Carrera.canvas",
+    "Plan_de_Cursada_Optimizado.md",
+    "04_CA3/Cálculo III.md",
+    "04_CA3",
+    "05_SYS/(U8) Filtros digitales.md",
+    "06_TOC",
+    "04_EDO",
+    "05_SYS/(U7) Transformada Z.md",
+    "05_SYS/(U6) Transformada de Fourier.md",
+    "05_SYS/(U5) Transformaciones.md",
+    "05_SYS/(U4) Espacios de señales.md",
+    "05_SYS/(U3) Convolución.md",
+    "05_SYS/(U2) Sistemas.md",
+    "05_SYS",
     "04_BD1/Resumen materia.md",
+    "05_INF/Guía de Final — Inferencia Estadística (Parte Práctica).md",
+    "05_INF/Guía de Final - Inferencia Estadística (Teoría).md",
+    "05_INF/(U7) Teoría de la Información.md",
+    "05_INF/TPF.md",
+    "Sin título.base",
     "04_BD1",
     "Calendar/2026-08-10 Inicio cursado.md",
     "Calendar/2026-08-16 Modelo 2026.md",
@@ -205,17 +221,7 @@
     "Calendar/2026-07-29 FINAL C3.md",
     "Calendar/2026-06-30 FINAL BD1.md",
     "Calendar/2026-07-01 FINAL C3.md",
-    "Calendar/2026-06-18 Coloquio IA.md",
-    "Calendar/2026-06-25 R2 IA.md",
-    "Calendar/2026-06-09 TPF IE.md",
-    "Calendar/2026-06-22 R2 IE.md",
-    "Calendar/2026-06-16 R1 IE.md",
-    "Calendar/2026-06-11 P2 IA.md",
-    "Calendar/2026-06-02 P2 IE.md",
-    "Excalidraw/Drawing 2026-06-01 02.20.02.excalidraw.md",
     "Excalidraw",
-    "05_IA/(U4) Conocimiento y SEs.md",
-    "Calendar",
-    "2026-06-01.md"
+    "Calendar"
   ]
 }

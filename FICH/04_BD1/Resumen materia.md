@@ -238,7 +238,7 @@ Vistas estándar para consultar metadatos de la BD:
 
 ### Procedimientos almacenados vs Funciones
 
-||Procedimiento|Función|
+| |Procedimiento|Función|
 |---|---|---|
 |Retorna valor|No|Sí (escalar o tabla)|
 |Uso en `SELECT`|No|Sí|
