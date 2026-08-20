@@ -11,11 +11,11 @@ Un **DBMS** es un conjunto de datos relacionados más los programas para gestion
 
 ### Abstracción de la información
 
-|Nivel|Descripción|
-|---|---|
-|**Físico**|Cómo se almacenan los datos en disco|
-|**Conceptual**|Qué datos existen y cómo se relacionan (visión lógica unificada)|
-|**De visión**|Cómo ven los datos los usuarios o aplicaciones|
+| Nivel $\downarrow$ | Descripción                                                      |
+| ------------------ | ---------------------------------------------------------------- |
+| **Físico**         | Cómo se almacenan los datos en disco                             |
+| **Conceptual**     | Qué datos existen y cómo se relacionan (visión lógica unificada) |
+| **De visión**      | Cómo ven los datos los usuarios o aplicaciones                   |
 
 **Independencia de datos:** capacidad de modificar un nivel sin afectar el inmediato superior.
 
@@ -68,18 +68,15 @@ M-N:  Estudiante ←→ Materia (tabla intermedia con dos FK)
 ```
 
 ### Características de las tablas
-
 - Todas las filas son únicas (1FN).
 - El orden de filas y columnas es indiferente.
 - Cada celda contiene un único valor.
 - **Tipos:** base (datos reales), temporales (solo en sesión), virtuales/vistas (derivadas de una consulta).
 
 ### NULL
-
 Representa información desconocida o no disponible. Es distinto de `0` y de cadena vacía. Ningún `NULL` es igual a otro.
 
 ### Principios del RDBMS (Codd)
-
 - Toda información se representa como valores en tablas.
 - Cada dato es accesible por: nombre de tabla + nombre de columna + valor de PK.
 - Los valores nulos se manejan de forma consistente.
@@ -108,7 +105,6 @@ DROP TABLE cliente;
 **Constraints disponibles:** `DEFAULT`, `CHECK`, `UNIQUE`, `PRIMARY KEY`, `REFERENCES` (FK).
 
 ### Índices
-
 Aceleran el acceso reduciendo operaciones de disco. Funcionan como el índice de un libro.
 
 |Tipo|Descripción|
@@ -126,7 +122,6 @@ WHERE cuil IS NOT NULL;
 ```
 
 ### Transacciones y ACID
-
 Una transacción es una unidad atómica de instrucciones SQL: o se completan todas o no se aplica ninguna.
 
 |Propiedad|Significado|

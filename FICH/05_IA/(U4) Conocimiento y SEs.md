@@ -4,12 +4,12 @@ La sentencia almacenada en la BC debe incluir la percepción y el tiempo en que 
 
 ---
 ***Sentencias diacrónicas:*** permiten razonar a través del tiempo.
-%% En(agente, celda(1,1),3) + accion(avanzar,3) -> En(agente, celda(2,1),4) %%
+$En(agente, celda(1,1),3) + accion(avanzar,3) -> En(agente, celda(2,1),4)$
 
 ***Cálculo situacional:*** método de representación que permite razonar sobre los resultados de las acciones de un agente basado en conocimiento.
 
 ***Situación:*** denota los estados resultantes de ejecutar acciones.
-%%s=Resultado(a,s-1) %%
+$s=Resultado(a,s-1)$
 
 ---
 ##### Definiciones Cálculo situacional
@@ -59,8 +59,8 @@ Es conveniente separar los hechos acerca de las acciones de los hechos acerca de
 
 ### Introducción a los Sistemas Expertos
 ![[Pasted image 20260511113542.png]]
-- ***MI (Máquina de inferencia)***
-- ***BC (Base de conocimiento)*** 
+- ***MI (Máquina de inferencia):*** aplica operaciones lógicas para inferir nuevo conocimiento a partir de hechos y reglas guardados en la BC.
+- ***BC (Base de conocimiento)*** almacena la información que se utiliza para la toma de decisiones.
 - ***MP (Memoria de producciones):*** constituida por un conjunto de reglas lógicas con la estructura IF(antecedentes) THEN (consecuentes).
 - ***MT (Memoria de trabajo):*** contiene un conjunto de literales positivas que no contienen variables. *EJ:* (perro tiene pelo).
 

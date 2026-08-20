@@ -25,7 +25,7 @@ Es el problema que enfrenta un agente que aprende su comportamiento a través de
 Ejecutar acciones en el ambiente, observar resultados y aprender la política de acciones $\pi\,\colon\,S\rightarrow A$ que maximiza la recompensa acumulada en el tiempo.
 $E(r_t+\,\gamma_{t+1}+\,\gamma²r_{t+2}+\,...)$ y desde cualquier estado inicial S:
 - $\gamma\,=\, 0$ : solamente se considera la r inmediata.
-- $0\, =<\,\gamma\,<\,0$ : factor de descuento para r futuras.
+- $0\, =<\,\gamma\,<\,1$ : factor de descuento para r futuras.
 - $\gamma\,=\,1$ : a la r futura se la da mayor importancia que a la inmediata.
 Los ejemplos de entrenamiento son <(s,a),r> en vez de (s,a).
 
